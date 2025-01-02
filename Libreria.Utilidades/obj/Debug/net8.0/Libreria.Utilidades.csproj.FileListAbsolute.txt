@@ -1,0 +1,11 @@
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\bin\Debug\net8.0\Libreria.Utilidades.deps.json
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\bin\Debug\net8.0\Libreria.Utilidades.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\bin\Debug\net8.0\Libreria.Utilidades.pdb
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.AssemblyInfo.cs
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\refint\Libreria.Utilidades.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\Libreria.Utilidades.pdb
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Utilidades\obj\Debug\net8.0\ref\Libreria.Utilidades.dll

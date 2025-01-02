@@ -1,0 +1,11 @@
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\bin\Debug\net8.0\Libreria.Models.deps.json
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\bin\Debug\net8.0\Libreria.Models.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\bin\Debug\net8.0\Libreria.Models.pdb
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.AssemblyInfoInputs.cache
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.AssemblyInfo.cs
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\refint\Libreria.Models.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\Libreria.Models.pdb
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria.Models\obj\Debug\net8.0\ref\Libreria.Models.dll
