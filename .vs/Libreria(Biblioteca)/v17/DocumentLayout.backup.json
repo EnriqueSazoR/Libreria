@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|solutionrelative:libreria.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|solutionrelative:libreria.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T22:35:12.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "categoria.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+              "RelativeToolTip": "Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-04T22:27:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Libreria.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "Libreria.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:26:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Libreria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Libreria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:25:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T22:23:29.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

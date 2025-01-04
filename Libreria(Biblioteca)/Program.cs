@@ -1,3 +1,5 @@
+using Libreria.AccesoDatos.Data.Repository;
+using Libreria.AccesoDatos.Data.Repository.IRepository;
 using Libreria_Biblioteca_.Data;
 using Libreria_Biblioteca_.Models;
 using Microsoft.AspNetCore.Identity;
@@ -14,6 +16,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+// Agregar el contenedor de trabajo
+builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
 
 var app = builder.Build();
 

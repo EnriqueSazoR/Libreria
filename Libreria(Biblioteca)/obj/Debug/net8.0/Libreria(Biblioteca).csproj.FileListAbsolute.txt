@@ -277,3 +277,5 @@ C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\bin\Debug\n
 C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\bin\Debug\net8.0\Libreria.Models.pdb
 C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\bin\Debug\net8.0\Libreria.Utilidades.pdb
 C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\obj\Debug\net8.0\Libreria(Biblioteca).sourcelink.json
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Luis Sazo\Desktop\Libreria(Biblioteca)\Libreria(Biblioteca)\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

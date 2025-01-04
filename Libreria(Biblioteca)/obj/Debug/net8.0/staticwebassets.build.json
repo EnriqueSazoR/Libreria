@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z1dCEo4ysLXPDJxs3+dRjo9nLOxGkBCNHaPmBoSWZgI=",
+  "Hash": "/ZwJVQbZMxZZaXH3q5+WzAfHG358ggz9uEPAFT0FU88=",
   "Source": "Libreria(Biblioteca)",
   "BasePath": "_content/Libreria(Biblioteca)",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "js/categoria#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "737hibvxeu",
+      "Integrity": "I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\site.js",
@@ -4982,6 +5003,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.737hibvxeu.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 22:46:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "737hibvxeu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 22:46:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY="
         }
       ]
     },
@@ -9846,7 +9949,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 02 Jan 2025 02:05:02 GMT"
+          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9891,7 +9994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 02 Jan 2025 02:05:02 GMT"
+          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9936,7 +10039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 02 Jan 2025 02:05:02 GMT"
+          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9973,7 +10076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 02 Jan 2025 02:05:02 GMT"
+          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
