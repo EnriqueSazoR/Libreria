@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/ZwJVQbZMxZZaXH3q5+WzAfHG358ggz9uEPAFT0FU88=",
+  "Hash": "3TCPBWGduGx94n5qJCUacGTCou+AA+ruC35a8meTQa8=",
   "Source": "Libreria(Biblioteca)",
   "BasePath": "_content/Libreria(Biblioteca)",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "737hibvxeu",
-      "Integrity": "I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=",
+      "Fingerprint": "rnayjk410l",
+      "Integrity": "iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
@@ -5007,51 +5007,6 @@
       ]
     },
     {
-      "Route": "js/categoria.737hibvxeu.js",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2918"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "737hibvxeu"
-        },
-        {
-          "Name": "label",
-          "Value": "js/categoria.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY="
-        }
-      ]
-    },
-    {
       "Route": "js/categoria.js",
       "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
       "Selectors": [],
@@ -5062,7 +5017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2918"
+          "Value": "3012"
         },
         {
           "Name": "Content-Type",
@@ -5070,11 +5025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY=\""
+          "Value": "\"iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:14 GMT"
+          "Value": "Tue, 07 Jan 2025 03:50:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5084,7 +5039,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I8xtYNYvxUlAFCvyV4ILVFXmZxyqtDdzRBuAtqpuKMY="
+          "Value": "sha256-iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.rnayjk410l.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 03:50:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnayjk410l"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po="
         }
       ]
     },
@@ -9949,7 +9949,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
+          "Value": "Tue, 07 Jan 2025 02:56:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9994,7 +9994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
+          "Value": "Tue, 07 Jan 2025 02:56:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10039,7 +10039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
+          "Value": "Tue, 07 Jan 2025 02:56:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10076,7 +10076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 22:46:55 GMT"
+          "Value": "Tue, 07 Jan 2025 02:56:11 GMT"
         },
         {
           "Name": "Cache-Control",

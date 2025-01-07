@@ -1,11 +1,12 @@
 ﻿@model Libreria.Models.Categoria
 
 @{
-    ViewData["Title"] = "Crear Categoría";
+    ViewData["Title"] = "Editar Categoría";
 }
 
 <br />
 <br />
+
 <form method="POST" asp-action="Create">
     <div class="card mx-auto my-5 p-4" style="max-width: 600px; background: linear-gradient(to bottom, #fdfdfd, #ffcccc);">
         <div class="card-body">
@@ -32,9 +33,18 @@
                     <span asp-validation-for="Orden" class="text-danger"></span>
                 </div>
             </div>
+            <br />
 
-                
-                    <partial name="_VistaCrearVolver" />
+            <div class="row">
+                <div class="col">
+                    <button type="submit" class="btn btn-success form-control">Editar Categoría</button>
+                </div>
+                &nbsp;
+                <div class="col">
+                    <a asp-action="Index" class="btn btn-outline-dark form-control">Volver Atrás</a>
+                </div>
+            </div>
         </div>
     </div>
+
 </form>
