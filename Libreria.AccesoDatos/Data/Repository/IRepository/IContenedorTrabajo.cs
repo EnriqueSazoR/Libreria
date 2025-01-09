@@ -10,6 +10,7 @@ namespace Libreria.AccesoDatos.Data.Repository.IRepository
     {
         // Acá se deben agregar los diferentes repositorios
         ICategoriaRepository Categoria { get;  }
+        IAutorRepository Autor { get; }
 
 
         void Save();

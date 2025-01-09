@@ -1,5 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagenes\autores\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg
+wwwroot\js\autor.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

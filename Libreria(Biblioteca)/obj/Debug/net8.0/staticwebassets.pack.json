@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\autor.js",
+      "PackagePath": "staticwebassets\\js\\autor.js"
+    },
+    {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },

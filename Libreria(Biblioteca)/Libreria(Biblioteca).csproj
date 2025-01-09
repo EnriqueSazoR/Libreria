@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Libreria.AccesoDatos\Libreria.AccesoDatos.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\autores\" />
+  </ItemGroup>
+
 </Project>
