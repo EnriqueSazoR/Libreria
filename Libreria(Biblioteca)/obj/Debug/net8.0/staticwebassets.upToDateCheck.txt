@@ -1,8 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagenes\autores\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg
+wwwroot\imagenes\autores\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg
+wwwroot\imagenes\autores\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg
+wwwroot\imagenes\autores\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg
 wwwroot\imagenes\autores\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg
 wwwroot\js\autor.js
 wwwroot\js\categoria.js
+wwwroot\js\nosotros.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

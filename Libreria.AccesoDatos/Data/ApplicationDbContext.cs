@@ -15,5 +15,6 @@ namespace Libreria_Biblioteca_.Data
         // Colocar todos los modelos que se crean
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Autor> Autores { get; set;  }
+        public DbSet<SobreNosotro> SobreNosotros { get; set; }
     }
 }

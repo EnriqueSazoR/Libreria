@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jwjVzII4yc6fxgAH/rPKZafa202Bk2pMH4ZUv7CkXMM=",
+  "Hash": "R4s9vNRe756d1jj4fUMyirYXxj3VOczZWYmXUDNfI+A=",
   "Source": "Libreria(Biblioteca)",
   "BasePath": "_content/Libreria(Biblioteca)",
   "Mode": "Default",
@@ -1361,6 +1361,90 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "imagenes/autores/5131126b-eede-47aa-8f8a-4aaec93bcf7a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcrvctb7hy",
+      "Integrity": "MyyRPN2bpUxlQpzljPEdvqVBknr81HKuMadXK26i6lM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "imagenes/autores/9a8ba0d8-41d8-4d6f-9342-974aa364c18c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8a0sxgrtfm",
+      "Integrity": "cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "imagenes/autores/9b5c8396-d5a8-418d-bdc7-60e3971c5938#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yzb92rb6l3",
+      "Integrity": "/mLVEtOjHt9UTXDxeUkaZOY05e+4zqjZfgrgOE5Zfzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "imagenes/autores/ce0e5204-c7ac-4f8d-974c-502b72393871#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3am73y215i",
+      "Integrity": "dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg",
       "SourceId": "Libreria(Biblioteca)",
       "SourceType": "Discovered",
@@ -1422,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "js/nosotros#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wo8hvykkbf",
+      "Integrity": "QM3RkOvbE00G0qMoRBSOp/+/+m/w2WOkGifuT0DpQ1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\nosotros.js"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\site.js",
@@ -5049,6 +5154,334 @@
       ]
     },
     {
+      "Route": "imagenes/autores/5131126b-eede-47aa-8f8a-4aaec93bcf7a.jcrvctb7hy.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MyyRPN2bpUxlQpzljPEdvqVBknr81HKuMadXK26i6lM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:31:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcrvctb7hy"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/autores/5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MyyRPN2bpUxlQpzljPEdvqVBknr81HKuMadXK26i6lM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MyyRPN2bpUxlQpzljPEdvqVBknr81HKuMadXK26i6lM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:31:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MyyRPN2bpUxlQpzljPEdvqVBknr81HKuMadXK26i6lM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/9a8ba0d8-41d8-4d6f-9342-974aa364c18c.8a0sxgrtfm.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:31:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8a0sxgrtfm"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/autores/9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:31:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/mLVEtOjHt9UTXDxeUkaZOY05e+4zqjZfgrgOE5Zfzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mLVEtOjHt9UTXDxeUkaZOY05e+4zqjZfgrgOE5Zfzk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/9b5c8396-d5a8-418d-bdc7-60e3971c5938.yzb92rb6l3.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/mLVEtOjHt9UTXDxeUkaZOY05e+4zqjZfgrgOE5Zfzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yzb92rb6l3"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/autores/9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mLVEtOjHt9UTXDxeUkaZOY05e+4zqjZfgrgOE5Zfzk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/ce0e5204-c7ac-4f8d-974c-502b72393871.3am73y215i.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:30:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3am73y215i"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/autores/ce0e5204-c7ac-4f8d-974c-502b72393871.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/autores/ce0e5204-c7ac-4f8d-974c-502b72393871.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 01:30:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo="
+        }
+      ]
+    },
+    {
       "Route": "imagenes/autores/e6e09796-ca58-4839-ba75-1f0254484e0f.gsgox8kxsu.jpg",
       "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg",
       "Selectors": [],
@@ -5291,6 +5724,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po="
+        }
+      ]
+    },
+    {
+      "Route": "js/nosotros.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QM3RkOvbE00G0qMoRBSOp/+/+m/w2WOkGifuT0DpQ1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 00:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QM3RkOvbE00G0qMoRBSOp/+/+m/w2WOkGifuT0DpQ1o="
+        }
+      ]
+    },
+    {
+      "Route": "js/nosotros.wo8hvykkbf.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QM3RkOvbE00G0qMoRBSOp/+/+m/w2WOkGifuT0DpQ1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 00:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wo8hvykkbf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/nosotros.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QM3RkOvbE00G0qMoRBSOp/+/+m/w2WOkGifuT0DpQ1o="
         }
       ]
     },

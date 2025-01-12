@@ -21,11 +21,13 @@ namespace Libreria.AccesoDatos.Data.Repository
             // Se llaman a todos los repositorios para que estén encapsulados
             Categoria = new CategoriaRepository(_db);
             Autor = new AutorRepository(_db);
+            SobreNosotro = new SobreNosotroRepository(_db);
 
         }
 
         public ICategoriaRepository Categoria { get; private set; }
         public IAutorRepository Autor { get; private set; }
+        public ISobreNosotroRepository SobreNosotro { get; private set; }
 
         public void Dispose()
         {

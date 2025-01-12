@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\autores\\9a8ba0d8-41d8-4d6f-9342-974aa364c18c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\autores\\9b5c8396-d5a8-418d-bdc7-60e3971c5938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\autores\\ce0e5204-c7ac-4f8d-974c-502b72393871.jpg"
+    },
+    {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg",
       "PackagePath": "staticwebassets\\imagenes\\autores\\e6e09796-ca58-4839-ba75-1f0254484e0f.jpg"
     },
@@ -23,6 +39,10 @@
     {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
+      "PackagePath": "staticwebassets\\js\\nosotros.js"
     },
     {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\site.js",
