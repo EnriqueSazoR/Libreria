@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\Fondo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Fondo.jpg"
+    },
+    {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg",
       "PackagePath": "staticwebassets\\imagenes\\autores\\5131126b-eede-47aa-8f8a-4aaec93bcf7a.jpg"
     },

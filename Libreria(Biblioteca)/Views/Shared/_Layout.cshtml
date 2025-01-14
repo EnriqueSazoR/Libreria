@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - Libreria_Biblioteca_</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min5.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+   
    @*  <link rel="stylesheet" href="~/Libreria_Biblioteca_.styles.css" asp-append-version="true" /> *@
 
     <!--Extensiones CSS-->
@@ -33,7 +34,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#" style="font-weight: bold;">Sobre Nosotros</a>
+                            <a class="nav-link" asp-area="Admin" asp-controller="SobreNosotros" asp-action="SobreNosotros" style="font-weight: bold;">Sobre Nosotros</a>
                             
                         </li>
                         <li class="nav-item dropdown">

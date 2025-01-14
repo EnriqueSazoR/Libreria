@@ -25,6 +25,7 @@ namespace Libreria.AccesoDatos.Data.Repository
             objDesdeBd.Vision = sobreNosotro.Vision;
             objDesdeBd.Mision = sobreNosotro.Mision;
             objDesdeBd.Informacion = sobreNosotro.Informacion;
+            objDesdeBd.FechaActualizacion = DateTime.Now;
         }
     }
 }
