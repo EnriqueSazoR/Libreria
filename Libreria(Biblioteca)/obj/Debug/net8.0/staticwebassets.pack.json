@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+      "PackagePath": "staticwebassets\\js\\libro.js"
+    },
+    {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
       "PackagePath": "staticwebassets\\js\\nosotros.js"
     },

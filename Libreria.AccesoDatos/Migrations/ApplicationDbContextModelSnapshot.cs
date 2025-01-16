@@ -66,6 +66,44 @@ namespace Libreria_Biblioteca_.Data.Migrations
                     b.ToTable("Categorias");
                 });
 
+            modelBuilder.Entity("Libreria.Models.Libro", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<int>("IdAutor")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdCategoria")
+                        .HasColumnType("int");
+
+                    b.Property<string>("NombreLibro")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NumeroPaginas")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Sinopsis")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("UrlImagen")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("IdAutor");
+
+                    b.HasIndex("IdCategoria");
+
+                    b.ToTable("Libros");
+                });
+
             modelBuilder.Entity("Libreria.Models.SobreNosotro", b =>
                 {
                     b.Property<int>("ID")
@@ -294,6 +332,25 @@ namespace Libreria_Biblioteca_.Data.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
+                });
+
+            modelBuilder.Entity("Libreria.Models.Libro", b =>
+                {
+                    b.HasOne("Libreria.Models.Autor", "Autor")
+                        .WithMany()
+                        .HasForeignKey("IdAutor")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Libreria.Models.Categoria", "Categoria")
+                        .WithMany()
+                        .HasForeignKey("IdCategoria")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Autor");
+
+                    b.Navigation("Categoria");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

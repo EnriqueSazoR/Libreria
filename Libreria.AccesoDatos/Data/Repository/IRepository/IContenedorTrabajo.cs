@@ -12,6 +12,8 @@ namespace Libreria.AccesoDatos.Data.Repository.IRepository
         ICategoriaRepository Categoria { get;  }
         IAutorRepository Autor { get; }
         ISobreNosotroRepository SobreNosotro { get; }
+        ILibroRepository Libro { get; }
+    
 
 
         void Save();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d7IyzS89vsyE7dcRHGf7f9W5TIWXhX3vAgEDgf+9nvE=",
+  "Hash": "TN4xBtgFEQ+SNJTy2H+LuqP6Svbi+lLzx75Q1kKcD9A=",
   "Source": "Libreria(Biblioteca)",
   "BasePath": "_content/Libreria(Biblioteca)",
   "Mode": "Default",
@@ -1527,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+      "SourceId": "Libreria(Biblioteca)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
+      "BasePath": "_content/Libreria(Biblioteca)",
+      "RelativePath": "js/libro#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jb7666ua14",
+      "Integrity": "cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\libro.js"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\nosotros.js",
@@ -5827,6 +5848,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-iVLN87L36Eb4Nzx9ylO+RKuSLtrBUkdv/DeKuxl52po="
+        }
+      ]
+    },
+    {
+      "Route": "js/libro.jb7666ua14.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 01:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb7666ua14"
+        },
+        {
+          "Name": "label",
+          "Value": "js/libro.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo="
+        }
+      ]
+    },
+    {
+      "Route": "js/libro.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 01:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo="
         }
       ]
     },
@@ -10773,7 +10876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10818,7 +10921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10863,7 +10966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10900,7 +11003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         },
         {
           "Name": "Cache-Control",

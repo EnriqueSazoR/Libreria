@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\wwwroot\\js\\libro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\wwwroot\\js\\libro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\sobrenosotros\\sobrenosotros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\sobrenosotros\\sobrenosotros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\sobrenosotros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\sobrenosotros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\controllers\\sobrenosotroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\controllers\\sobrenosotroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria.accesodatos\\data\\repository\\sobrenosotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|solutionrelative:libreria.accesodatos\\data\\repository\\sobrenosotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3B18E3D-23E5-4393-B94D-7A8B78083036}|Libreria.Models\\Libreria.Models.csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria.models\\viewmodels\\librovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B18E3D-23E5-4393-B94D-7A8B78083036}|Libreria.Models\\Libreria.Models.csproj|solutionrelative:libreria.models\\viewmodels\\librovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Libreria(Biblioteca)\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-14T03:20:41.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T02:41:02.498Z",
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:30:45.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SobreNosotros.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\SobreNosotros.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\SobreNosotros.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\SobreNosotros.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\SobreNosotros.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T02:46:18.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SobreNosotroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\SobreNosotroRepository.cs",
-              "RelativeDocumentMoniker": "Libreria.AccesoDatos\\Data\\Repository\\SobreNosotroRepository.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\SobreNosotroRepository.cs",
-              "RelativeToolTip": "Libreria.AccesoDatos\\Data\\Repository\\SobreNosotroRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Title": "LibroVM.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.Models\\ViewModels\\LibroVM.cs",
+              "RelativeDocumentMoniker": "Libreria.Models\\ViewModels\\LibroVM.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.Models\\ViewModels\\LibroVM.cs",
+              "RelativeToolTip": "Libreria.Models\\ViewModels\\LibroVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:37:52.934Z",
+              "WhenOpened": "2025-01-16T01:26:19.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\Edit.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\SobreNosotros\\Edit.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T02:03:31.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\Edit.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T02:13:09.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SobreNosotrosController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\SobreNosotrosController.cs",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\SobreNosotrosController.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\SobreNosotrosController.cs",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\SobreNosotrosController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:01:59.532Z",
+              "DocumentIndex": 1,
+              "Title": "libro.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+              "RelativeToolTip": "Libreria(Biblioteca)\\wwwroot\\js\\libro.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T01:23:44.665Z",
               "EditorCaption": ""
             }
           ]

@@ -16,5 +16,6 @@ namespace Libreria_Biblioteca_.Data
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Autor> Autores { get; set;  }
         public DbSet<SobreNosotro> SobreNosotros { get; set; }
+        public DbSet<Libro> Libros { get; set;}
     }
 }

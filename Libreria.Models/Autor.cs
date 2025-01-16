@@ -24,5 +24,6 @@ namespace Libreria.Models
         [DataType(DataType.ImageUrl)]
         [Display(Name = "Imagen")]
         public string UrlImagen { get; set; }
+
     }
 }

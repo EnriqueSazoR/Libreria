@@ -22,12 +22,14 @@ namespace Libreria.AccesoDatos.Data.Repository
             Categoria = new CategoriaRepository(_db);
             Autor = new AutorRepository(_db);
             SobreNosotro = new SobreNosotroRepository(_db);
+            Libro = new LibroRepository(_db);
 
         }
 
         public ICategoriaRepository Categoria { get; private set; }
         public IAutorRepository Autor { get; private set; }
         public ISobreNosotroRepository SobreNosotro { get; private set; }
+        public ILibroRepository Libro { get; private set; }
 
         public void Dispose()
         {

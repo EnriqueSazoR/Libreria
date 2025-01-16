@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 00:15:25 GMT"
+          "Value": "Thu, 16 Jan 2025 01:36:38 GMT"
         }
       ],
       "EndpointProperties": [
@@ -3121,6 +3121,88 @@
         {
           "Name": "label",
           "Value": "js/categoria.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/libro.jb7666ua14.js",
+      "AssetFile": "js/libro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 01:42:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb7666ua14"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo="
+        },
+        {
+          "Name": "label",
+          "Value": "js/libro.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/libro.js",
+      "AssetFile": "js/libro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 01:42:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZfOdnP5XX7vafVAB8xv+wdDeVZXkyPHl+8jLCTwTyo="
         }
       ]
     },
