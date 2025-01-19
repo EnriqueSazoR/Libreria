@@ -3,3 +3,6 @@
 - posteriormente se muestra en la vista "Sobre Nosotros" por parte del cliente
   
 ![Captura de pantalla 2025-01-13 211057](https://github.com/user-attachments/assets/0e5776b1-3ebf-4c6d-b441-fe2331d7c805)
+
+# Enero 18, 2025
+- Se trabajó el CRUD de Libros
