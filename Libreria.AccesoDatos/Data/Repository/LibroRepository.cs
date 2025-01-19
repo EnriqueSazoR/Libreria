@@ -25,13 +25,22 @@ namespace Libreria.AccesoDatos.Data.Repository
         public void Update(Libro libro)
         {
             var objDesdeDb = _db.Libros.FirstOrDefault(x => x.ID == libro.ID);
-            objDesdeDb.NombreLibro = libro.NombreLibro;
-            objDesdeDb.Sinopsis = libro.Sinopsis;
-            objDesdeDb.NumeroPaginas = libro.NumeroPaginas;
-            objDesdeDb.UrlImagen = libro.UrlImagen;
-            objDesdeDb.IdCategoria = libro.IdCategoria;
-            objDesdeDb.IdAutor = libro.IdAutor;
 
+            if (objDesdeDb != null)
+            {
+                objDesdeDb.NombreLibro = libro.NombreLibro;
+                objDesdeDb.Sinopsis = libro.Sinopsis;
+                objDesdeDb.NumeroPaginas = libro.NumeroPaginas;
+                objDesdeDb.UrlImagen = libro.UrlImagen;
+                objDesdeDb.IdCategoria = libro.IdCategoria;
+                objDesdeDb.IdAutor = libro.IdAutor;
+            }
+            else
+            {
+                // Manejo cuando no se encuentra el libro
+                throw new InvalidOperationException($"El libro con ID {libro.ID} no existe en la base de datos.");
+            }
         }
+
     }
 }

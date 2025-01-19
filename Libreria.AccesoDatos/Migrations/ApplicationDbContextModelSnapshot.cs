@@ -89,8 +89,8 @@ namespace Libreria_Biblioteca_.Data.Migrations
 
                     b.Property<string>("Sinopsis")
                         .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("nvarchar(200)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("UrlImagen")
                         .HasColumnType("nvarchar(max)");

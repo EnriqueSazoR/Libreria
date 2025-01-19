@@ -7,6 +7,7 @@
 <br />
 <br />
 <form method="POST" asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="ID" />
     <div class="card mx-auto my-4 p-3" style="max-width: 900px; background: linear-gradient(to bottom, #fdfdfd, #ffcccc);">
         <div class="card-body">
             <div asp-validation-summary="ModelOnly" class="text-bg-danger mb-3"></div>

@@ -19,7 +19,7 @@ namespace Libreria.Models
         public string NombreLibro { get; set; }
 
         [Required(ErrorMessage = "Este campo es obligatorio")]
-        [MaxLength(200, ErrorMessage = "La sinopsis no pude exceder los 200 caracteres")]
+        [MaxLength(500, ErrorMessage = "La sinopsis no pude exceder los 500 caracteres")]
         public string Sinopsis { get; set; }
 
         [DataType(DataType.ImageUrl)]
