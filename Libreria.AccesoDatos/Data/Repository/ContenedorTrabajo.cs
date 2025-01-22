@@ -23,6 +23,7 @@ namespace Libreria.AccesoDatos.Data.Repository
             Autor = new AutorRepository(_db);
             SobreNosotro = new SobreNosotroRepository(_db);
             Libro = new LibroRepository(_db);
+            Slider = new SliderRepository(_db);
 
         }
 
@@ -30,6 +31,7 @@ namespace Libreria.AccesoDatos.Data.Repository
         public IAutorRepository Autor { get; private set; }
         public ISobreNosotroRepository SobreNosotro { get; private set; }
         public ILibroRepository Libro { get; private set; }
+        public ISliderRepository Slider { get; private set; }
 
         public void Dispose()
         {

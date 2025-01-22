@@ -24,6 +24,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\imagenes\autores\" />
     <Folder Include="wwwroot\imagenes\libros\" />
+    <Folder Include="wwwroot\imagenes\sliders\" />
   </ItemGroup>
 
 </Project>

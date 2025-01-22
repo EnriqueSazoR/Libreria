@@ -21,23 +21,4 @@ body {
   margin-bottom: 60px;
 }
 
-body {
-    background: url('~/imagenes/Fondo.jpg') no-repeat center center fixed; /* Ruta de tu imagen */
-    background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
-    background-blend-mode: overlay; /* Mezcla la imagen con el color de fondo */
-    background-color: rgba(255, 255, 255, 0.8); /* Blanco semitransparente */
-    font-family: Arial, sans-serif; /* Define una fuente general para mejorar la apariencia */
-    color: #333; /* Color del texto para que contraste bien */
-}
 
-header {
-    background-color: rgba(0, 0, 0, 0.8); /* Fondo negro semitransparente para el navbar */
-    color: white; /* Color blanco para el texto del header */
-}
-
-footer {
-    background-color: rgba(0, 0, 0, 0.8); /* Fondo negro semitransparente para el footer */
-    color: white; /* Color blanco para el texto del footer */
-    padding: 15px 0; /* Añade espacio dentro del footer */
-    text-align: center; /* Centra el texto */
-}

@@ -104,6 +104,29 @@ namespace Libreria_Biblioteca_.Data.Migrations
                     b.ToTable("Libros");
                 });
 
+            modelBuilder.Entity("Libreria.Models.Slider", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<bool>("Estado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UrlImagen")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Sliders");
+                });
+
             modelBuilder.Entity("Libreria.Models.SobreNosotro", b =>
                 {
                     b.Property<int>("ID")
