@@ -324,41 +324,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\libros\f796479b-799e-498b-902d-35573fda3e33.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\396c3b96-3e92-47ad-bc14-8f633799392e.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\78afd6d4-21d6-435d-93f6-86a819219458.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Libreria(Biblioteca)</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Libreria(Biblioteca)</BasePath>
-      <RelativePath>imagenes/sliders/396c3b96-3e92-47ad-bc14-8f633799392e.jpg</RelativePath>
+      <RelativePath>imagenes/sliders/78afd6d4-21d6-435d-93f6-86a819219458.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3am73y215i</Fingerprint>
-      <Integrity>dYh6kRoX/Kj7Qt2i1dDAU2PkBLtQBKudgvD4P9aTsgo=</Integrity>
+      <Fingerprint>qri1h9xqwn</Fingerprint>
+      <Integrity>uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\396c3b96-3e92-47ad-bc14-8f633799392e.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\78afd6d4-21d6-435d-93f6-86a819219458.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\f4c76355-ad54-43ce-b741-ac20a0d58288.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\c12c9078-a961-49f8-a3a9-405006c64fff.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Libreria(Biblioteca)</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Libreria(Biblioteca)</BasePath>
-      <RelativePath>imagenes/sliders/f4c76355-ad54-43ce-b741-ac20a0d58288.jpg</RelativePath>
+      <RelativePath>imagenes/sliders/c12c9078-a961-49f8-a3a9-405006c64fff.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8a0sxgrtfm</Fingerprint>
-      <Integrity>cOEWSOKBc54CuenIEHGfDNjInc2RaCEUVuhxtFerTes=</Integrity>
+      <Fingerprint>xtucwgc8f6</Fingerprint>
+      <Integrity>67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\f4c76355-ad54-43ce-b741-ac20a0d58288.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\c12c9078-a961-49f8-a3a9-405006c64fff.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Libreria(Biblioteca)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Libreria(Biblioteca)</BasePath>
+      <RelativePath>imagenes/sliders/ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>w1uw7g9rt1</Fingerprint>
+      <Integrity>JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\sliders\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\autor.js'))">
       <SourceType>Package</SourceType>

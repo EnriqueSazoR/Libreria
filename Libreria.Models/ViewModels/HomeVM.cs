@@ -9,5 +9,10 @@ namespace Libreria.Models.ViewModels
     public class HomeVM
     {
         public IEnumerable<Slider> Sliders { get; set; }
+        public IEnumerable<Libro> ListaLibros { get; set; }
+
+        // Paginación
+        public int PageIndex { get; set; }
+        public int TotalPage { get; set; }
     }
 }

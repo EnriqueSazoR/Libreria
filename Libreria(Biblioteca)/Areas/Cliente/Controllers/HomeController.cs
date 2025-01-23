@@ -4,6 +4,7 @@ using Libreria.Models.ViewModels;
 using Libreria_Biblioteca_.Areas.Admin.Controllers;
 using Libreria_Biblioteca_.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Libreria_Biblioteca_.Areas.Cliente.Controllers
 {
@@ -18,11 +19,19 @@ namespace Libreria_Biblioteca_.Areas.Cliente.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public IActionResult Index(int page = 1, int pageSize = 4)
         {
+            var libros = _contenedorTrabajo.Libro.AsQuerable().Include(m => m.Autor);
+
+            // paginar libros
+            var paginatedEntries = libros.Skip((page - 1) * pageSize).Take(pageSize);
+
             HomeVM homeVM = new HomeVM()
             {
-                Sliders = _contenedorTrabajo.Slider.GetAll()
+                Sliders = _contenedorTrabajo.Slider.GetAll(),
+                ListaLibros = paginatedEntries.ToList(),
+                PageIndex = page,
+                TotalPage = (int)Math.Ceiling(libros.Count() / (double)pageSize)
             };
 
             ViewBag.IsHome = true;

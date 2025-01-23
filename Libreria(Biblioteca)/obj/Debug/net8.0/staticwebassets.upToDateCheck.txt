@@ -16,8 +16,9 @@ wwwroot\imagenes\libros\af066f4a-afe7-43a4-b896-586b6443895d.jpg
 wwwroot\imagenes\libros\b2fc3676-5b1c-4475-aa76-24493c67529c.jpg
 wwwroot\imagenes\libros\da35cde8-5b57-4a78-8731-aa8b42d8dbb4.jpg
 wwwroot\imagenes\libros\f796479b-799e-498b-902d-35573fda3e33.jpg
-wwwroot\imagenes\sliders\396c3b96-3e92-47ad-bc14-8f633799392e.jpg
-wwwroot\imagenes\sliders\f4c76355-ad54-43ce-b741-ac20a0d58288.jpg
+wwwroot\imagenes\sliders\78afd6d4-21d6-435d-93f6-86a819219458.jpg
+wwwroot\imagenes\sliders\c12c9078-a961-49f8-a3a9-405006c64fff.jpg
+wwwroot\imagenes\sliders\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg
 wwwroot\js\autor.js
 wwwroot\js\categoria.js
 wwwroot\js\libro.js
