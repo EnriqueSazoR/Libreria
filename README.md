@@ -5,11 +5,12 @@
 ![Captura de pantalla 2025-01-13 211057](https://github.com/user-attachments/assets/0e5776b1-3ebf-4c6d-b441-fe2331d7c805)
 
 # Enero 23, 2025
-- Se crea vista detalle libro, para ampliar la información del libro que el cliente seleccione
+- Se crea vista "Detalle Libro", para ampliar la información del libro que el cliente seleccione
 
 ![DetalleLibro](https://github.com/user-attachments/assets/02557186-de6f-4e86-948e-37d0f3581a7a)
 
 
-- Se crea vista "información autores" para mostrar detalles de todos los autores guardados en la bd
+
+- Se crea vista "Información Autores" para mostrar detalles de todos los autores guardados en la BD
   
 ![DetalleAutores](https://github.com/user-attachments/assets/112a686c-1380-42d5-87e1-8b0a0dfac728)
