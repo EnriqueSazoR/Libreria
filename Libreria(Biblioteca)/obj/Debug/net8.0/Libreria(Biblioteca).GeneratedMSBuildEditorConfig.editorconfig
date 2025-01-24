@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0b3Jlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Luis Sazo/Desktop/Libreria(Biblioteca)/Libreria(Biblioteca)/Areas/Admin/Views/Autores/informacionAutores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0b3Jlc1xpbmZvcm1hY2lvbkF1dG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Luis Sazo/Desktop/Libreria(Biblioteca)/Libreria(Biblioteca)/Areas/Admin/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -94,6 +98,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Luis Sazo/Desktop/Libreria(Biblioteca)/Libreria(Biblioteca)/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Sazo/Desktop/Libreria(Biblioteca)/Libreria(Biblioteca)/Areas/Cliente/Views/Home/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50ZVxWaWV3c1xIb21lXERldGFsbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Luis Sazo/Desktop/Libreria(Biblioteca)/Libreria(Biblioteca)/Areas/Cliente/Views/Home/Index.cshtml]

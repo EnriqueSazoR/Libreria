@@ -1,0 +1,32 @@
+﻿@model Libreria.Models.Libro
+
+@{
+    ViewData["Title"] = "Detalle Libro";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header bg-light text-light">
+            <div class="col-12">
+                <h1 class="text-dark text-center">@Model.NombreLibro</h1>
+            </div>
+        </div>
+
+        <div class="card-body">
+            <div class="col-12">
+                <img src="@Model.UrlImagen" class="img-thumbnail mx-auto d-block"/>
+                <h3 class="text-secondary fw-bold fs-5">Sinopsis:</h3>
+                <p class="text-secondary fs-4">@Html.Raw(Model.Sinopsis)</p>
+                <h3 class="text-secondary fw-bold fs-5">Número de páginas:</h3>
+                <p class="text-secondary fs-4">@Html.Raw(Model.NumeroPaginas)</p>
+            </div>
+        </div>
+
+        <div class="text-center mt-5">
+            <a asp-area="Cliente" asp-controller="Home" asp-action="Index" class="btn btn-outline-dark btn-lg">
+                <i class="fas fa-arrow-left me-2"></i> Volver Atrás
+            </a>
+        </div>
+    </div>
+</div>
+

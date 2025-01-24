@@ -151,7 +151,13 @@ namespace Libreria_Biblioteca_.Areas.Admin.Controllers
             return View(autor);
         }
 
-
+        // Traer todos los autores
+        [HttpGet]
+        public IActionResult informacionAutores()
+        {
+            var infoAutores = _contenedorTrabajo.Autor.GetAll();
+            return View(infoAutores);
+        }
 
 
         #region

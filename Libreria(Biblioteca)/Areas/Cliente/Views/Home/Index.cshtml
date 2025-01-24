@@ -21,8 +21,8 @@
                 <div class="card">
                     <img src="@libro.UrlImagen" class="img-thumbnail d-block mx-auto" width="180"/>
                     <div class="card-body">
-                        <h5 class="text-center">@libro.NombreLibro</h5>
-                        <h5 class="text-center">@libro.Autor.NombreAutor</h5>
+                        <h5 class="text-center fw-bold">Libro: @libro.NombreLibro</h5>
+                        <h5 class="text-center fw-bold">Autor: @libro.Autor.NombreAutor</h5>
                         <a asp-action="Detalle" class="btn btn-info" style="border-radius: 10px" asp-route-id="@libro.ID">
                             Más Información
                         </a>

@@ -39,6 +39,13 @@ namespace Libreria_Biblioteca_.Areas.Cliente.Controllers
             return View(homeVM);
         }
 
+        [HttpGet]
+        public IActionResult Detalle(int id)
+        {
+            var libroDesdeBd = _contenedorTrabajo.Libro.Get(id);
+            return View(libroDesdeBd);
+        }
+
         public IActionResult Privacy()
         {
             return View();

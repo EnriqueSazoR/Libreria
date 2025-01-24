@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PVOApEnTms/JdDT3UB1zPOEX8oAsGgyUC4Nc97K7CH0=",
+  "Hash": "I9UzwcdqcpGiBkm9AzB340J28aVV4QO3YSvlEP4ZO+s=",
   "Source": "Libreria(Biblioteca)",
   "BasePath": "_content/Libreria(Biblioteca)",
   "Mode": "Default",
@@ -1697,12 +1697,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\libros\\f796479b-799e-498b-902d-35573fda3e33.jpg"
     },
     {
-      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\78afd6d4-21d6-435d-93f6-86a819219458.jpg",
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg",
       "SourceId": "Libreria(Biblioteca)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
       "BasePath": "_content/Libreria(Biblioteca)",
-      "RelativePath": "imagenes/sliders/78afd6d4-21d6-435d-93f6-86a819219458#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/sliders/22cbf3c0-8317-4d87-b7e5-76bd234343cf#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1711,19 +1711,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qri1h9xqwn",
-      "Integrity": "uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw=",
+      "Fingerprint": "rmvja8q3nr",
+      "Integrity": "4/Do7r+/ullBi8Gqj7nyZHVQWmU7YYU1UPd964i4q1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\78afd6d4-21d6-435d-93f6-86a819219458.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\c12c9078-a961-49f8-a3a9-405006c64fff.jpg",
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg",
       "SourceId": "Libreria(Biblioteca)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
       "BasePath": "_content/Libreria(Biblioteca)",
-      "RelativePath": "imagenes/sliders/c12c9078-a961-49f8-a3a9-405006c64fff#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/sliders/ac7f344b-fc21-45b6-9363-61ff29ec7795#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1732,19 +1732,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtucwgc8f6",
-      "Integrity": "67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ=",
+      "Fingerprint": "hr0rkozgvp",
+      "Integrity": "nWBZupR29jtAZeh52zYO06PvwSwv8Lm8mD0k/ixzdGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\c12c9078-a961-49f8-a3a9-405006c64fff.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg",
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg",
       "SourceId": "Libreria(Biblioteca)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\",
       "BasePath": "_content/Libreria(Biblioteca)",
-      "RelativePath": "imagenes/sliders/ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/sliders/ff6736b9-4064-47ec-8c23-737d0ecf3b0e#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1753,11 +1753,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w1uw7g9rt1",
-      "Integrity": "JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs=",
+      "Fingerprint": "9wyoy3zt01",
+      "Integrity": "qYRp3GJK9UQXWvxaY7+38JTL/KRl2T51stEdyvR8N4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\js\\autor.js",
@@ -6802,8 +6802,8 @@
       ]
     },
     {
-      "Route": "imagenes/sliders/78afd6d4-21d6-435d-93f6-86a819219458.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\78afd6d4-21d6-435d-93f6-86a819219458.jpg",
+      "Route": "imagenes/sliders/22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6812,7 +6812,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3771893"
+          "Value": "168752"
         },
         {
           "Name": "Content-Type",
@@ -6820,11 +6820,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw=\""
+          "Value": "\"4/Do7r+/ullBi8Gqj7nyZHVQWmU7YYU1UPd964i4q1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:27:20 GMT"
+          "Value": "Thu, 23 Jan 2025 00:56:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6834,13 +6834,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw="
+          "Value": "sha256-4/Do7r+/ullBi8Gqj7nyZHVQWmU7YYU1UPd964i4q1s="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/78afd6d4-21d6-435d-93f6-86a819219458.qri1h9xqwn.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\78afd6d4-21d6-435d-93f6-86a819219458.jpg",
+      "Route": "imagenes/sliders/22cbf3c0-8317-4d87-b7e5-76bd234343cf.rmvja8q3nr.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6849,7 +6849,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3771893"
+          "Value": "168752"
         },
         {
           "Name": "Content-Type",
@@ -6857,11 +6857,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw=\""
+          "Value": "\"4/Do7r+/ullBi8Gqj7nyZHVQWmU7YYU1UPd964i4q1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:27:20 GMT"
+          "Value": "Thu, 23 Jan 2025 00:56:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6871,21 +6871,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qri1h9xqwn"
+          "Value": "rmvja8q3nr"
         },
         {
           "Name": "label",
-          "Value": "imagenes/sliders/78afd6d4-21d6-435d-93f6-86a819219458.jpg"
+          "Value": "imagenes/sliders/22cbf3c0-8317-4d87-b7e5-76bd234343cf.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuWbBRBo5Ba2+wyYMlcp1Dezqe23b826Q/YlqX59Haw="
+          "Value": "sha256-4/Do7r+/ullBi8Gqj7nyZHVQWmU7YYU1UPd964i4q1s="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/c12c9078-a961-49f8-a3a9-405006c64fff.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\c12c9078-a961-49f8-a3a9-405006c64fff.jpg",
+      "Route": "imagenes/sliders/ac7f344b-fc21-45b6-9363-61ff29ec7795.hr0rkozgvp.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6894,7 +6894,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2506551"
+          "Value": "440242"
         },
         {
           "Name": "Content-Type",
@@ -6902,11 +6902,56 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ=\""
+          "Value": "\"nWBZupR29jtAZeh52zYO06PvwSwv8Lm8mD0k/ixzdGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:27:42 GMT"
+          "Value": "Thu, 23 Jan 2025 00:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hr0rkozgvp"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWBZupR29jtAZeh52zYO06PvwSwv8Lm8mD0k/ixzdGw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ac7f344b-fc21-45b6-9363-61ff29ec7795.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWBZupR29jtAZeh52zYO06PvwSwv8Lm8mD0k/ixzdGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:58:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6916,13 +6961,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ="
+          "Value": "sha256-nWBZupR29jtAZeh52zYO06PvwSwv8Lm8mD0k/ixzdGw="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/c12c9078-a961-49f8-a3a9-405006c64fff.xtucwgc8f6.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\c12c9078-a961-49f8-a3a9-405006c64fff.jpg",
+      "Route": "imagenes/sliders/ff6736b9-4064-47ec-8c23-737d0ecf3b0e.9wyoy3zt01.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6931,7 +6976,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2506551"
+          "Value": "292435"
         },
         {
           "Name": "Content-Type",
@@ -6939,11 +6984,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ=\""
+          "Value": "\"qYRp3GJK9UQXWvxaY7+38JTL/KRl2T51stEdyvR8N4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:27:42 GMT"
+          "Value": "Thu, 23 Jan 2025 00:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6953,21 +6998,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtucwgc8f6"
+          "Value": "9wyoy3zt01"
         },
         {
           "Name": "label",
-          "Value": "imagenes/sliders/c12c9078-a961-49f8-a3a9-405006c64fff.jpg"
+          "Value": "imagenes/sliders/ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-67iqTAYC5aeZ4ISMM3qfDhUSHKGYx21BjFJxb/eusgQ="
+          "Value": "sha256-qYRp3GJK9UQXWvxaY7+38JTL/KRl2T51stEdyvR8N4A="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg",
+      "Route": "imagenes/sliders/ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ff6736b9-4064-47ec-8c23-737d0ecf3b0e.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6976,7 +7021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3833511"
+          "Value": "292435"
         },
         {
           "Name": "Content-Type",
@@ -6984,11 +7029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs=\""
+          "Value": "\"qYRp3GJK9UQXWvxaY7+38JTL/KRl2T51stEdyvR8N4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:28:01 GMT"
+          "Value": "Thu, 23 Jan 2025 00:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6998,52 +7043,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs="
-        }
-      ]
-    },
-    {
-      "Route": "imagenes/sliders/ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.w1uw7g9rt1.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\wwwroot\\imagenes\\sliders\\ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3833511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 00:28:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w1uw7g9rt1"
-        },
-        {
-          "Name": "label",
-          "Value": "imagenes/sliders/ea0b658f-4d63-4b20-a5ef-1b9c5d4aee12.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JFeOWfijtVlN09ZmRi0hbdPjlAgFhFIHt0ChFGGKpRs="
+          "Value": "sha256-qYRp3GJK9UQXWvxaY7+38JTL/KRl2T51stEdyvR8N4A="
         }
       ]
     },
@@ -12318,7 +12318,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 03:38:33 GMT"
+          "Value": "Fri, 24 Jan 2025 00:29:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12363,7 +12363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 03:38:33 GMT"
+          "Value": "Fri, 24 Jan 2025 00:29:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12408,7 +12408,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 03:38:33 GMT"
+          "Value": "Fri, 24 Jan 2025 00:29:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12445,7 +12445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 03:38:33 GMT"
+          "Value": "Fri, 24 Jan 2025 00:29:15 GMT"
         },
         {
           "Name": "Cache-Control",

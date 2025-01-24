@@ -28,17 +28,20 @@
                 <div class="collapse navbar-collapse" id="navbarColor01">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#" style="font-weight: bold;">
+                            <a class="nav-link active" asp-area="Cliente" asp-controller="Home" asp-action="Index" style="font-weight: bold;">
                                 Inicio
                                 <span class="visually-hidden">(current)</span>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="Admin" asp-controller="SobreNosotros" asp-action="SobreNosotros" style="font-weight: bold;">Sobre Nosotros</a>
+                            <a class="nav-link active" asp-area="Admin" asp-controller="SobreNosotros" asp-action="SobreNosotros" style="font-weight: bold;">Sobre Nosotros</a>
 
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" asp-area="Admin" asp-controller="Autores" asp-action="informacionAutores" style="font-weight: bold;">Información Autores</a>
+                        </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="font-weight: bold;">Administrar Contenido</a>
+                            <a class="nav-link dropdown-toggle active" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="font-weight: bold;">Administrar Contenido</a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" asp-area="Admin" asp-controller="Categorias" asp-action="Index" style="font-weight: bold;">Categorías</a>
                                 <div class="dropdown-divider"></div>
