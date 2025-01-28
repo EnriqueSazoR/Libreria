@@ -13,8 +13,8 @@ namespace Libreria.AccesoDatos.Data.Repository.IRepository
         IAutorRepository Autor { get; }
         ISobreNosotroRepository SobreNosotro { get; }
         ILibroRepository Libro { get; }
-
         ISliderRepository Slider { get; }
+        IUsuarioRepository Usuario { get; }
     
 
 

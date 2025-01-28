@@ -1,0 +1,68 @@
+﻿@page
+@using Libreria.Utilidades
+@model RegisterModel
+@{
+    ViewData["Title"] = "Registrate";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Crea una nueva cuenta.</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <!--email-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <!--nombre-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Nombre" class="form-control" autocomplete="nombre" aria-required="true" placeholder="Nombre Completo" />
+                <label asp-for="Input.Nombre">Nombre</label>
+                <span asp-validation-for="Input.Nombre" class="text-danger"></span>
+            </div>
+            <!--pais-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Pais" class="form-control" autocomplete="pais" aria-required="true" placeholder="Ingresa País" />
+                <label asp-for="Input.Pais">Pais</label>
+                <span asp-validation-for="Input.Pais" class="text-danger"></span>
+            </div>
+            <!--ciudad-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Ciudad" class="form-control" autocomplete="ciudad" aria-required="true" placeholder="Ingresa Ciudad" />
+                <label asp-for="Input.Ciudad">Ciudad</label>
+                <span asp-validation-for="Input.Ciudad" class="text-danger"></span>
+            </div>
+            <!--contraseña-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.Password">Password</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <!--confirmar contraseña-->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <!--selector de roles-->
+            <div class="form-group row">
+                <div class="col-6"><h4>Seleccionar Rol de Usuario</h4></div>
+                <div class="col-5">
+                    <input type="radio" name="radUsuarioRole" value="@CNT.Administrador"/> @CNT.Administrador
+                    <input type="radio" name="radUsuarioRole" value="@CNT.Registrado" /> @CNT.Registrado
+                </div>
+            </div>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Registrar</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

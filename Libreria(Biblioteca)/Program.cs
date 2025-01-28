@@ -1,5 +1,6 @@
 using Libreria.AccesoDatos.Data.Repository;
 using Libreria.AccesoDatos.Data.Repository.IRepository;
+using Libreria.Models;
 using Libreria_Biblioteca_.Data;
 using Libreria_Biblioteca_.Models;
 using Microsoft.AspNetCore.Identity;
@@ -13,8 +14,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultUI()
+    .AddDefaultTokenProviders();
 builder.Services.AddControllersWithViews();
 
 // Agregar el contenedor de trabajo
@@ -40,6 +43,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
 
 app.MapControllerRoute(
     name: "default",

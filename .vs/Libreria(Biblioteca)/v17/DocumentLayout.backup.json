@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\autores\\informacionautores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\autores\\informacionautores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318C8258-5546-4969-968F-A078770645F4}|Libreria.AccesoDatos\\Libreria.AccesoDatos.csproj|solutionrelative:libreria.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|c:\\users\\luis sazo\\desktop\\libreria(biblioteca)\\libreria(biblioteca)\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D8109-B40E-428E-921F-96465510FD9C}|Libreria(Biblioteca)\\Libreria(Biblioteca).csproj|solutionrelative:libreria(biblioteca)\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "informacionAutores.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\informacionAutores.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\informacionAutores.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\informacionAutores.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Autores\\informacionAutores.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T00:26:53.163Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Program.cs",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Program.cs",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:16:19.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Libreria(Biblioteca)\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAB4AAACOAAAAAAAAAA==",
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Libreria.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "Libreria.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:03:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:54:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Libreria(Biblioteca)\\Libreria(Biblioteca)\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Libreria(Biblioteca)\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T00:19:20.734Z",
+              "WhenOpened": "2025-01-28T03:48:53.238Z",
               "EditorCaption": ""
             }
           ]

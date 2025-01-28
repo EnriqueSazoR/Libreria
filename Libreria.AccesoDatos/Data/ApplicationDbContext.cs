@@ -17,7 +17,7 @@ namespace Libreria_Biblioteca_.Data
         public DbSet<Autor> Autores { get; set;  }
         public DbSet<SobreNosotro> SobreNosotros { get; set; }
         public DbSet<Libro> Libros { get; set;}
-
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers {  get; set; }
     }
 }
